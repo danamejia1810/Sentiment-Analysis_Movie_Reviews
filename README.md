@@ -1,4 +1,4 @@
-# Sentiment Analysis: Movie Reviews using NLP Analysis 🎥
+<img src="Banner.png" alt="Banner" width="1000" height="400"/>
 
 This project showcase the different techniques using NLP where the movie reviews is categorize sentiments as positive, negative, or neutral.
 
