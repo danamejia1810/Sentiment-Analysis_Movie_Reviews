@@ -4,7 +4,7 @@ This project showcase the different techniques using NLP where the movie reviews
 
 ## 🔔 Details
 
-The movie is from Marvel Studios: **Avengers: EndGame** which the premiere was from 22 de abril de 2019 April 22th (LA) and 2019 April 26th (United States). According to [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt), this movie is the second most-watched movie in the world. with $2,799,439,100 dollars.
+The datasets are the movies that integrate the Avengers saga. 
 
 ### 💻 Data Processing 
 
@@ -14,7 +14,17 @@ This project uses Python and libraries such as `nltk`, `sklearn`, and `NRCLex` t
 
 ### Data Acquisition
 
-Data is obtained from the [IMDB - Avengers Reviews](https://www.imdb.com/title/tt4154796/reviews?ref_=tt_ql_2) page.
+Data is obtained from:
+
+[IMDB - Avengers(2012)](https://www.imdb.com/title/tt0848228/reviews/?ref_=tt_ql_2)
+
+[IMDB - Avengers: Age of Ultron (2015)](https://www.imdb.com/title/tt2395427/reviews/?ref_=tt_ql_2)
+
+[IMDB - Avengers: Infinity War (2018)](https://www.imdb.com/title/tt4154756/reviews/?ref_=tt_ql_2)
+
+[IMDB - Avengers: Endgame (2019)](https://www.imdb.com/title/tt4154796/reviews/?ref_=tt_ql_2)
+
+
 
 ### Data Cleaning
 
@@ -33,7 +43,7 @@ Explore the NLP techniques used:
 
 ### 📢 Model Evaluation
 
-We evaluated the sentiment analysis models by comparing the predicted sentiments with the actual ratings given in the reviews. The evaluation metrics included accuracy, precision, recall, and F1-score.
+We evaluated the sentiment analysis models results from Vader and TextBlob. To predict we use Logistic regression. The evaluation metrics included accuracy, precision, recall, and F1-score.
 
 ## 📈 Results and Visualization
 
