@@ -65,7 +65,7 @@ We evaluated the sentiment analysis models results from Vader and TextBlob. To p
 
 ## 📌 Analysis Notebooks and dataset 
 
-Navigate to the `analysis` directory to explore Jupyter notebooks with detailed analysis.
+For the notebooks and the csv files go to  `analysis` directory.
 
 
 
