@@ -67,5 +67,9 @@ We evaluated the sentiment analysis models results from Vader and TextBlob. To p
 
 For the notebooks and the csv files go to  `analysis` directory.
 
-
-
+The order is:
+1. [Webscraping)](https://github.com/danamejia1810/Sentiment-Analysis_Movie_Reviews/blob/main/Analysis/Notebooks/Webscraping.ipynb)
+2. [Data Cleaning and EDA)](https://github.com/danamejia1810/Sentiment-Analysis_Movie_Reviews/blob/main/Analysis/Notebooks/Data%20Cleaning.ipynb)
+3. [Sentimient Analysis)](https://github.com/danamejia1810/Sentiment-Analysis_Movie_Reviews/blob/main/Analysis/Notebooks/Sentiment%20Analysis.%20.ipynb)
+4. [Logistic Regression)](https://github.com/danamejia1810/Sentiment-Analysis_Movie_Reviews/blob/main/Analysis/Notebooks/Logistic%20regression.ipynb)
+5. [Keyword Analysis)](https://github.com/danamejia1810/Sentiment-Analysis_Movie_Reviews/blob/main/Analysis/Notebooks/Key%20words%20analysis.ipynb)
